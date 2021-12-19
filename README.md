@@ -16,6 +16,8 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+**19/12/2021:** E' stato pubblicato il secondo foglio esercizi dei tutor, che torvate qui: [foglio2_esercizi.pdf](files/foglio2_esercizi.pdf).
+
 **10/12/2021:** Fissati gli appelli invernali: 10 Febbraio 2022 e 24 Febbraio 2022.
 
 **9/12/2021:** Le ultime due lezioni (esercitaziioni d'esame) si terranno Martedi' 11 e Martedi' 18 Gennaio.
