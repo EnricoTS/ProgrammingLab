@@ -63,10 +63,10 @@ funzioni, moduli, be pythonic | [slides](slides/Lezione2.pdf)
  | [slides](slides/Lezione10.pdf)| [soluzioni](soluzioni/lezione10)
 
 - **Lezione 11** (11/1/2022): prima esercitazione
- | [compito](https://docs.google.com/document/d/e/2PACX-1vSsSDmsHj0dsqG3rs1Erv2KGksKCSpk27RAUfrL5p6aaIAIplReUfOnh8NUNP-D6j_uOhF1fhTfd5Hg/pub)
+ | [compito](https://docs.google.com/document/d/e/2PACX-1vSsSDmsHj0dsqG3rs1Erv2KGksKCSpk27RAUfrL5p6aaIAIplReUfOnh8NUNP-D6j_uOhF1fhTfd5Hg/pub) | [test](soluzioni/esercitazione1/test.py) | [autovalutazione](http://autograding.xyz) | [soluzione](soluzioni/esercitazione1/esame.py) 
 
 - **Lezione 12** (19/1/2022): seconda esercitazione
- | [compito](https://docs.google.com/document/d/e/2PACX-1vRt09wouXGP4ECVPbMIT7FGzzYAx6T37Pil8KG4pSMpcYQeHAl_b9x3rsax7jH0D3M8Ol9R05C8xY_3/pub)
+ | [compito](https://docs.google.com/document/d/e/2PACX-1vRt09wouXGP4ECVPbMIT7FGzzYAx6T37Pil8KG4pSMpcYQeHAl_b9x3rsax7jH0D3M8Ol9R05C8xY_3/pub) | [test](soluzioni/esercitazione2/test.py) | [autovalutazione](http://autograding.xyz)
 
 ## Modalità di esame
 
